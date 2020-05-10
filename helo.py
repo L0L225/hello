@@ -6,7 +6,7 @@ a3 = a1 + a2
 
 def up():
 	exec('git pull https://github.com/L0L225/hello.git')
-	break
+	main()
 
 def main():
 	os.system('clear')
