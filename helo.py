@@ -5,7 +5,8 @@ a2 = 'world'
 a3 = a1 + a2
 
 def up():
-	eval('''git pull https://github.com/L0L225/hello.git''')
+	exec('git pull https://github.com/L0L225/hello.git')
+	break
 
 def main():
 	os.system('clear')
