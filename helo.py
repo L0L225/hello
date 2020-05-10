@@ -1,5 +1,5 @@
 
-
+print('ver 0.1')
 print('\n 1. hello\n 2. world\n 3. 1+2\n 4. up\n')
 
 a1 = 'hello '
@@ -7,7 +7,7 @@ a2 = 'world'
 a3 = a1 + a2
 
 def up():
-	pass
+	exec('git pull https://github.com/L0L225/hello.git')
 
 
 
