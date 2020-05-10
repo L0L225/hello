@@ -7,8 +7,7 @@ a2 = 'world'
 a3 = a1 + a2
 
 def up():
-	exec(cd -)
-	exec(git clone https://github.com/L0L225/hello.git)
+	pass
 
 
 
